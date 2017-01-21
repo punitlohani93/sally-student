@@ -3,3 +3,9 @@ div {
 	border: 1px solid aquamarine;
 	padding: 30px;
 }
+
+section {
+	border: 1px solid #FF99BC;
+	margin: 16px 0;
+	padding: 0 16px;
+}
